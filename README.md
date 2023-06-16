@@ -3,13 +3,13 @@
 
 <p align="left"> <a href="https://twitter.com/aijazbinqasim" target="blank"><img src="https://img.shields.io/twitter/follow/aijazbinqasim?logo=twitter&style=for-the-badge" alt="aijazbinqasim" /></a> </p>
 
-- 🔭 I’m currently working on [Alif Student Information System](https://alifsis.com/)
+- 🔭 I’m currently working on: [Alif Student Information System](https://alifsis.com/)
 
-- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/aijazbinqasim/](https://www.linkedin.com/in/aijazbinqasim/)
+- 👨‍💻 All of my projects are available at: [https://www.linkedin.com/in/aijazbinqasim/](https://www.linkedin.com/in/aijazbinqasim/)
 
-- 📫 How to reach me **aijaz.ali@alifsoftwares.com**
+- 📫 You can reach me at: **aijaz.ali@alifsoftwares.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/aijazbinqasim/](https://www.linkedin.com/in/aijazbinqasim/)
+- 📄 Get to know about my experiences: [https://www.linkedin.com/in/aijazbinqasim/](https://www.linkedin.com/in/aijazbinqasim/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

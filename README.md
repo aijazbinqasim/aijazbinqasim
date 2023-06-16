@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aijaz Bin Qasim</h1>
-<h3 align="center">Full Stack Engineer/Software Developer</h3>
+<h3 align="center">Full Stack Engineer</h3>
 
 <p align="left"> <a href="https://twitter.com/aijazbinqasim" target="blank"><img src="https://img.shields.io/twitter/follow/aijazbinqasim?logo=twitter&style=for-the-badge" alt="aijazbinqasim" /></a> </p>
 

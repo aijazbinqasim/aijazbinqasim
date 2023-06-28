@@ -1,9 +1,7 @@
-<h1 align="center">Hello everyone 👋, I'm Aijaz Ali</h1>
+<h1 align="center">Hello 👋, I'm Aijaz Ali</h1>
 <p align="left"> <a href="https://twitter.com/aijazbinqasim" target="blank"><img src="https://img.shields.io/twitter/follow/aijazbinqasim?logo=twitter&style=for-the-badge" alt="aijazbinqasim" /></a> </p>
 
-- 🔭 I’m currently working on [Alif Student Information System (Alif SIS)](https://alifsis.com/)
-
-- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/aijazbinqasim/](aijazbinqasim)
+- 👨‍💻 All of my projects are available at [aijazbinqasim](https://www.linkedin.com/in/aijazbinqasim/)
 
 - 💬 Ask me about **.NET, React, etc...**
 

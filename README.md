@@ -1,4 +1,4 @@
-<h1 align="center">Hello Everyone 👋, I'm Aijaz Ali</h1>
+<h1 align="center">Hello everyone 👋, I'm Aijaz Ali</h1>
 <p align="left"> <a href="https://twitter.com/aijazbinqasim" target="blank"><img src="https://img.shields.io/twitter/follow/aijazbinqasim?logo=twitter&style=for-the-badge" alt="aijazbinqasim" /></a> </p>
 
 - 👨‍💻 All of my projects are available at [aijazbinqasim](https://www.linkedin.com/in/aijazbinqasim/)

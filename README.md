@@ -5,8 +5,6 @@
 
 - 💬 Ask me about **.NET, React, etc...**
 
-- 📫 How to reach me **aijaz.ali@hotmail.com**
-
 - 📄 Know about my experiences [https://1drv.ms/b/s!Arnm4kPKwvJ3mlgoIOFBj9RX9oiP?e=SIE8Mg](https://1drv.ms/b/s!Arnm4kPKwvJ3mlgoIOFBj9RX9oiP?e=SIE8Mg)
 
 - ⚡ Fun fact **Code is "Poetry"**

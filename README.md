@@ -19,5 +19,9 @@
 
 <h3 align="left">Follow me:</h3>
 <p align="left">
+  <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="HORIZONTAL" data-vanity="aijazbinqasim" data-version="v1"><a class="badge-base__link LI-simple-link" 
+  href="https://pk.linkedin.com/in/aijazbinqasim?trk=profile-badge">Aijaz Ali
+</a></div>
+              
 <a href="https://medium.com/@aijazwrites/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@aijaz.ali" height="30" width="40" /></a>
 </p>

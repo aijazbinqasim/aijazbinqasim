@@ -1,3 +1,5 @@
+<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
+
 <h1 align="center">Hi 👋, I'm Aijaz Ali</h1>
 <h3 align="center">Full-Stack Developer/Software Engineer</h3>
 

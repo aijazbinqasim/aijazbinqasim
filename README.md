@@ -1,13 +1,13 @@
-<h1 align="center">HELLO 👋, I'm Aijaz Ali</h1>
+<h1 align="center">HELLO 👋,</h1>
 <h3 align="center">Full-Stack Developer/Software Engineer</h3>
 
-- 📝 I regularly write articles on [https://medium.com/@aijazwrites/](https://medium.com/@aijazwrites/)
+- 📝 I regularly write articles on [Medium/@aijazwrites](https://medium.com/@aijazwrites/)
 
 - 💬 Ask me about .NET, React, etc...
 
 - 📫 How to reach me aijaz.ali@hotmail.com
 
-- 📄 Know about my experiences [https://1drv.ms/b/s!Arnm4kPKwvJ3mlgoIOFBj9RX9oiP?e=SIE8Mg](https://1drv.ms/b/s!Arnm4kPKwvJ3mlgoIOFBj9RX9oiP?e=SIE8Mg)
+- 📄 Know about my experiences [View My Resume](https://1drv.ms/b/s!Arnm4kPKwvJ3mmCMrsnI56gHyAne?e=8FNUIF)
 
 - ⚡ Fun fact Code is "Poetry"
 

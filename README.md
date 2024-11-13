@@ -1,5 +1,5 @@
 <h1 align="center">HELLO 👋,</h1>
-<h3 align="center">Full-Stack Developer/Software Engineer</h3>
+<h3 align="center">Full-Stack Developer</h3>
 
 - 📝 I regularly write articles on [Medium/@aijazwrites](https://medium.com/@aijazwrites/)
 

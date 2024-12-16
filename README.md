@@ -20,15 +20,15 @@
 <h3 align="left">My tech stack</h3>
 <p align="left">
   <a href="https://dotnet.microsoft.com/en-us/apps/aspnet" title=".NET 9">
-    <img src="https://skillicons.dev/icons?i=dotnet"alt=".NET 9" width="30" height="30"/>
+    <img src="https://skillicons.dev/icons?i=dotnet"alt=".NET 9" width="33" height="33"/>
 </a>
   
 <a href="https://reactnative.dev/" title="React & React Native">
-   <img src="https://skillicons.dev/icons?i=react" alt="React & React Native" width="30" height="30"/>
+   <img src="https://skillicons.dev/icons?i=react" alt="React & React Native" width="33" height="33"/>
 </a>
 
 <a href="https://www.typescriptlang.org/" title="TypeScript">
-   <img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" width="30" height="30"/>
+   <img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" width="33" height="33"/>
 </a>
 </p>
 
@@ -42,10 +42,10 @@
 <h3 align="left">Follow me</h3>
 <p align="left">
   <a href="https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=aijazbinqasim" title="Linkedin">
-    <img src="https://skillicons.dev/icons?i=linkedin"alt="Linkedin" width="30" height="30"/>
+    <img src="https://skillicons.dev/icons?i=linkedin"alt="Linkedin" width="33" height="33"/>
 </a>
   
 <a href="https://medium.com/@aijazwrites/" title="Medium">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="Medium" height="30" width="30" />
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="Medium" height="33" width="33" />
 </a>
 </p>

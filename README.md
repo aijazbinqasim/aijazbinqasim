@@ -19,6 +19,9 @@
 
 <h3 align="left">Follow me:</h3>
 <p align="left">
+  <a href="https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=aijazbinqasim" target="blank">
+  <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/linkedin.svg" alt="@aijazbinqasim" height="30" width="40" />
+</a>
 <a href="https://medium.com/@aijazwrites/" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@aijaz.ali" height="30" width="40" />
 </a>

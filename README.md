@@ -1,5 +1,4 @@
-  <h1 align="center">Hello, 👋</h1>
-  <h1 align="center">Full Stack Developer</h1>
+  ![Header](https://github.com/aijazbinqasim/aijazbinqasim/blob/main/final.png?raw=true)
 
 - 📝 I regularly write articles on [Medium/@aijazwrites/](https://medium.com/@aijazwrites/)
 

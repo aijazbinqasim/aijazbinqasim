@@ -1,4 +1,4 @@
-<h1 align="center">Hello, 👋</h1>
+    <h1 align="center">Hello, 👋</h1>
 <h3 align="center">Full Stack Developer</h3>
 
 - 📝 I regularly write articles on [Medium/@aijazwrites/](https://medium.com/@aijazwrites/)

@@ -17,35 +17,35 @@
 - [Matric/SSC &amp; Inter/HSSC Certificates Attestation from IBCC Pakistan in 2024 Step by Step](https://medium.com/@aijazwrites/matric-ssc-and-inter-hssc-certificates-attestation-from-ibcc-pakistan-in-2024-step-by-step-607278243c6d?source=rss-76e2edb5216a------2)
 <!-- BLOG-POST-LIST:END -->
 
-<h3 align="left">My specialization</h3>
+<h3 align="left">My tech stack</h3>
 <p align="left">
-  <a href="https://dotnet.microsoft.com/en-us/apps/aspnet">
-    <img src="https://skillicons.dev/icons?i=dotnet"alt="Dotnet" width="30" height="30"/>
+  <a href="https://dotnet.microsoft.com/en-us/apps/aspnet" title=".NET 9">
+    <img src="https://skillicons.dev/icons?i=dotnet"alt=".NET 9" width="30" height="30"/>
 </a>
   
-<a href="https://reactnative.dev/">
-   <img src="https://skillicons.dev/icons?i=react" alt="React" width="30" height="30"/>
+<a href="https://reactnative.dev/" title="React & React Native">
+   <img src="https://skillicons.dev/icons?i=react" alt="React & React Native" width="30" height="30"/>
 </a>
 
-<a href="https://www.typescriptlang.org/">
+<a href="https://www.typescriptlang.org/" title="TypeScript">
    <img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" width="30" height="30"/>
 </a>
 </p>
 
 <h3 align="left">Hire me</h3>
 <p align="left">
-  <a href="https://www.upwork.com/freelancers/~01943fc50d07040467?mp_source=share">
-    <img src="https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white"alt=""/>
+  <a href="https://www.upwork.com/freelancers/~01943fc50d07040467?mp_source=share" title="Upwork Freelancer">
+    <img src="https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white" alt="Upwork Freelancer"/>
 </a>
 </p>
         
 <h3 align="left">Follow me</h3>
 <p align="left">
-  <a href="https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=aijazbinqasim">
-    <img src="https://skillicons.dev/icons?i=linkedin"alt="" width="30" height="30"/>
+  <a href="https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=aijazbinqasim" title="Linkedin">
+    <img src="https://skillicons.dev/icons?i=linkedin"alt="Linkedin" width="30" height="30"/>
 </a>
   
-<a href="https://medium.com/@aijazwrites/">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="" height="30" width="30" />
+<a href="https://medium.com/@aijazwrites/" title="Medium">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="Medium" height="30" width="30" />
 </a>
 </p>

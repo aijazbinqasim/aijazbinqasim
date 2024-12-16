@@ -21,11 +21,11 @@
 <p align="left">
   <a href="https://dotnet.microsoft.com/en-us/apps/aspnet">
     <img src="https://skillicons.dev/icons?i=dotnet"alt="Dotnet" width="30" height="30"/>
-</a>&nbsp;
+</a>
   
 <a href="https://reactnative.dev/">
    <img src="https://skillicons.dev/icons?i=react" alt="React" width="30" height="30"/>
-</a>&nbsp;
+</a>
 
 <a href="https://www.typescriptlang.org/">
    <img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" width="30" height="30"/>
@@ -36,14 +36,14 @@
 <p align="left">
   <a href="https://www.upwork.com/freelancers/~01943fc50d07040467?mp_source=share">
     <img src="https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white"alt=""/>
-</a>&nbsp;
+</a>
 </p>
         
 <h3 align="left">Follow me</h3>
 <p align="left">
   <a href="https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=aijazbinqasim">
     <img src="https://skillicons.dev/icons?i=linkedin"alt="" width="30" height="30"/>
-</a>&nbsp;
+</a>
   
 <a href="https://medium.com/@aijazwrites/">
   <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="" height="30" width="30" />

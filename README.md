@@ -1,13 +1,13 @@
-<h1 align="center">HELLO 👋,</h1>
-<h3 align="center">Full-Stack Developer</h3>
+<h1 align="center">Hello 👋,</h1>
+<h3 align="center">Full Stack Developer</h3>
 
-- 📝 I regularly write articles on [Medium/@aijazwrites](https://medium.com/@aijazwrites/)
+- 📝 I regularly write articles on [Medium/@aijazwrites/](https://medium.com/@aijazwrites/)
 
-- 💬 Ask me about .NET, React, etc...
+- 💬 Ask me about .NET 9, React, etc.
 
 - 📫 How to reach me aijaz.ali@hotmail.com
 
-- 📄 Know about my experiences [View My Resume](https://1drv.ms/b/s!Arnm4kPKwvJ3mmCMrsnI56gHyAne?e=8FNUIF)
+- 📄 Know about my experiences [My Resume](https://1drv.ms/b/c/77f2c2ca43e2e6b9/EUVzuAwSDtlMkqCwaHFwGL8Bu3ym0h5-WKweT0x_JQOOdg?e=gvNg8f)
 
 - ⚡ Fun fact Code is "Poetry"
 
@@ -17,12 +17,34 @@
 - [Matric/SSC &amp; Inter/HSSC Certificates Attestation from IBCC Pakistan in 2024 Step by Step](https://medium.com/@aijazwrites/matric-ssc-and-inter-hssc-certificates-attestation-from-ibcc-pakistan-in-2024-step-by-step-607278243c6d?source=rss-76e2edb5216a------2)
 <!-- BLOG-POST-LIST:END -->
 
-<h3 align="left">Follow me:</h3>
+<h2 align="left">My specialization</h2>
 <p align="left">
-  <a href="https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=aijazbinqasim" target="blank">
-  <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/linkedin.svg" alt="@aijazbinqasim" height="30" width="40" />
+  <a href="https://dotnet.microsoft.com/en-us/apps/aspnet" target="_blank">
+    <img src="https://skillicons.dev/icons?i=dotnet"alt="Dotnet" width="35" height="35"/>
 </a>
-<a href="https://medium.com/@aijazwrites/" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@aijaz.ali" height="30" width="40" />
+  
+<a href="https://reactnative.dev/" target="_blank">
+   <img src="https://skillicons.dev/icons?i=react" alt="React" width="35" height="35"/>
+</a>
+
+<a href="https://www.typescriptlang.org/" target="_blank">
+   <img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" width="35" height="35"/>
+</a>
+</p>
+
+<h2 align="left">Hire me</h2>
+<p align="left">
+  <a href="https://www.upwork.com/freelancers/~01943fc50d07040467?mp_source=share" target="_blank">
+    <img src="https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white"alt=""/>
+</a>
+</p>
+<h2 align="left">Follow me</h2>
+<p align="left">
+  <a href="https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=aijazbinqasim" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin"alt="" width="35" height="35"/>
+</a>
+  
+<a href="https://medium.com/@aijazwrites/" target="_blank">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="" height="35" width="35" />
 </a>
 </p>

@@ -4,7 +4,7 @@
     Professional .NET Developer with an in-depth knowledge of OOP Design Pattern.
   </p>
   <p>
-    Over 6 years of software development-related experience spanning ASP.NET (C#) to ASP.NET Core (C#) in .NET 8 including enterprise cloud-based ERP applications with Web APIs and front-end frameworks (React 
+    Over 7 years of software development-related experience spanning ASP.NET (C#) to ASP.NET Core (C#) in .NET 9 including enterprise cloud-based ERP applications with Web APIs and front-end frameworks (React 
     Native) experience. Expert in full SDLC.
   </p>
   <p>

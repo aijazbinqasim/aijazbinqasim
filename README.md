@@ -26,14 +26,14 @@
 
 - ⚡ Fun fact: Code is "Poetry"
 
-<h2 align="left">Blogs posts</h2>
+<h2 align="left">Blog Posts</h2>
 
 <!-- BLOG-POST-LIST:START -->
 - [Degree and Transcript Attestation from HEC Pakistan in 2024 Step by Step](https://medium.com/@aijazwrites/degree-and-transcript-attestation-from-hec-pakistan-in-2024-step-by-step-fe42ffc7d654?source=rss-76e2edb5216a------2)
 - [Matric/SSC &amp; Inter/HSSC Certificates Attestation from IBCC Pakistan in 2024 Step by Step](https://medium.com/@aijazwrites/matric-ssc-and-inter-hssc-certificates-attestation-from-ibcc-pakistan-in-2024-step-by-step-607278243c6d?source=rss-76e2edb5216a------2)
 <!-- BLOG-POST-LIST:END -->
 
-<h2 align="left">My tech stack</h2>
+<h2 align="left">My Tech Stack</h2>
 <p align="left">
   <a href="https://dotnet.microsoft.com/en-us/apps/aspnet" title=".NET 9">
     <img src="https://skillicons.dev/icons?i=dotnet"alt=".NET 9" width="33" height="33"/>
@@ -48,14 +48,14 @@
 </a>
 </p>
 
-<h2 align="left">Hire me</h2>
+<h2 align="left">Hire Me</h2>
 <p align="left">
   <a href="https://www.upwork.com/freelancers/~01943fc50d07040467?mp_source=share" title="Upwork Freelancer">
     <img src="https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white" alt="Upwork Freelancer"/>
 </a>
 </p>
         
-<h2 align="left">Follow me</h2>
+<h2 align="left">Follow Me</h2>
 <p align="left">
   <a href="https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=aijazbinqasim" title="Linkedin">
     <img src="https://skillicons.dev/icons?i=linkedin"alt="Linkedin" width="33" height="33"/>
@@ -64,4 +64,21 @@
 <a href="https://medium.com/@aijazwrites/" title="Medium">
   <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="Medium" height="33" width="33" />
 </a>
+</p>
+
+<h2 align="left">Orcid</h2>
+<p align="left">  
+ <a
+    id="cy-effective-orcid-url"
+    class="underline"
+     href="https://orcid.org/0009-0005-4690-6187"
+     target="orcid.widget"
+     rel="me noopener noreferrer"
+     style="vertical-align: top">
+     <img
+        src="https://orcid.org/sites/default/files/images/orcid_16x16.png"
+        style="width: 1em; margin-inline-start: 0.5em"
+        alt="ORCID iD icon"/>
+      https://orcid.org/0009-0005-4690-6187
+    </a>
 </p>

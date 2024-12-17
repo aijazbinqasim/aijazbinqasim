@@ -66,7 +66,7 @@
 </a>
 </p>
 
-<h2 align="left">Orcid</h2>
+<h2 align="left">ORCID iD</h2>
 <p align="left">  
  <a
     id="cy-effective-orcid-url"

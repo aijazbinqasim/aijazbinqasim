@@ -14,7 +14,7 @@
   <p>
     Experience with non-Microsoft .NET technologies including Java, JavaScript, TypeScript, React JS, React Native, Flutter, Bootstrap, PHP, Word press. A highly motivated individual who is always learning, able 
     to work to tight deadlines, and who can communicate effectively with technical peers as well as business users.
-  </p><hr />
+  </p><br/>
   
 - 📝 I regularly write articles on [Medium/@aijazwrites/](https://medium.com/@aijazwrites/)
 

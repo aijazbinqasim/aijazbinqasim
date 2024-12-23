@@ -1,5 +1,5 @@
   ![Header](https://github.com/aijazbinqasim/aijazbinqasim/blob/main/final.png?raw=true)
-
+  
   <p align="left">
    <img src="https://img.shields.io/github/followers/aijazbinqasim?label=Follow&style=social" alt="GitHub Followers" />
    <img src="https://img.shields.io/github/stars/aijazbinqasim?label=Stars" alt="GitHub Stars" />
@@ -24,7 +24,7 @@
   
   ## GitHub Stats
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aijazbinqasim&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aijazbinqasim&layout=compact&theme=highcontrast" alt="Top Languages" />
 </p>
 
 ## Blog Posts

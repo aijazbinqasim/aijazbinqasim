@@ -1,5 +1,5 @@
   ![Header](https://github.com/aijazbinqasim/aijazbinqasim/blob/main/final.png?raw=true)
-# About
+## 🚀 About
   <p>
     Professional .NET Developer with an in-depth knowledge of OOP Design Pattern.
   </p>
@@ -15,14 +15,14 @@
     Experience with non-Microsoft .NET technologies including Java, JavaScript, TypeScript, React JS, React Native, Flutter, Bootstrap, PHP, Word press. A highly motivated individual who is always learning, able 
     to work to tight deadlines, and who can communicate effectively with technical peers as well as business users.
   </p>
-  <h2 align="left">Blog Posts</h2>
-
+  
+## 📚 Blog Posts
 <!-- BLOG-POST-LIST:START -->
 - [Degree and Transcript Attestation from HEC Pakistan in 2024 Step by Step](https://medium.com/@aijazwrites/degree-and-transcript-attestation-from-hec-pakistan-in-2024-step-by-step-fe42ffc7d654?source=rss-76e2edb5216a------2)
 - [Matric/SSC &amp; Inter/HSSC Certificates Attestation from IBCC Pakistan in 2024 Step by Step](https://medium.com/@aijazwrites/matric-ssc-and-inter-hssc-certificates-attestation-from-ibcc-pakistan-in-2024-step-by-step-607278243c6d?source=rss-76e2edb5216a------2)
 <!-- BLOG-POST-LIST:END -->
-<br/>
-<p align="left">
+
+## 🔗 Follow me
   <a href="https://www.upwork.com/freelancers/~01943fc50d07040467?mp_source=share" title="Hire on Upwork">
     <img src="https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white" alt="Hire on Upwork"/>
 </a>&nbsp;
@@ -42,4 +42,4 @@
      <img
         src="https://img.shields.io/badge/orcid-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="View on ORCID iD"/>
     </a>
-</p>
+    

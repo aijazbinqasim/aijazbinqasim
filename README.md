@@ -27,6 +27,11 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aijazbinqasim&layout=compact&theme=highcontrast" alt="Top Languages" />
 </p>
 
+## Subscribe my Newsletters
+<a href="https://www.linkedin.com/build-relation/newsletter-follow?entityUrn=7279114645959839744" title="Subscribe on LinkedIn">
+   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Subscribe on LinkedIn"/>
+</a>
+
 ## Blog Posts
 <!-- BLOG-POST-LIST:START -->
 - [Degree and Transcript Attestation from HEC Pakistan in 2024 Step by Step](https://medium.com/@aijazwrites/degree-and-transcript-attestation-from-hec-pakistan-in-2024-step-by-step-fe42ffc7d654?source=rss-76e2edb5216a------2)

@@ -27,7 +27,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aijazbinqasim&layout=compact&theme=highcontrast" alt="Top Languages" />
 </p>
 
-## Subscribe my Newsletters
+## Newsletters
 <a href="https://www.linkedin.com/build-relation/newsletter-follow?entityUrn=7279114645959839744" title="Subscribe on LinkedIn">
    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Subscribe on LinkedIn"/>
 </a>

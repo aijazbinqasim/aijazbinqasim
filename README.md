@@ -1,6 +1,6 @@
   ![Header](https://github.com/aijazbinqasim/aijazbinqasim/blob/main/final.png?raw=true)
   
-  <p align="left">
+  <p align="right">
    <img src="https://img.shields.io/github/followers/aijazbinqasim?label=Follow&style=social" alt="GitHub Followers" />
    <img src="https://img.shields.io/github/stars/aijazbinqasim?label=Stars" alt="GitHub Stars" />
   </p>

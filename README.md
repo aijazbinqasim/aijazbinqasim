@@ -6,21 +6,27 @@
   </p>
 
 ## About
-  <p>
-    Professional .NET Developer with an in-depth knowledge of OOP Design Pattern.
-  </p>
-  <p>
-    Over 7 years of software development-related experience spanning ASP.NET (C#) to ASP.NET Core (C#) in .NET 9 including enterprise cloud-based ERP applications with Web APIs and front-end frameworks (React 
-    Native) experience. Expert in full SDLC.
-  </p>
-  <p>
-    Has the ability to understand and transform complex business requirements into software, communicate with vendors, implement/deploy vendor-provided CRs, support different platform applications, ensure 
-    applications are delivered on time, to specification, are scalable, performance-optimized, and maintainable. 
-  </p>
-  <p>
-    Experience with non-Microsoft .NET technologies including Java, JavaScript, TypeScript, React JS, React Native, Flutter, Bootstrap, PHP, Word press. A highly motivated individual who is always learning, able 
-    to work to tight deadlines, and who can communicate effectively with technical peers as well as business users.
-  </p>
+
+<p>I am a highly skilled Full Stack Developer over 07 years of experience in designing, developing, and deploying scalable web and mobile applications. My expertise spans across C#-.NET 9, API, MVC, React JS, React Native, TypeScript, JavaScript, SQL Server, Web & Mobile App (Android-IOS) Expert, ensuring end-to-end solutions that are efficient, maintainable, and performance-driven.</p>
+
+My Expertise Includes:<br/>
+
+✅ .NET 9, C#, ASP.NET Core MVC & Web APIs – Robust and scalable backend development. <br/>
+✅ React JS & React Native – Modern, high-performance front-end & mobile apps (Android & iOS).<br/>
+✅ TypeScript & JavaScript – Clean, maintainable, and type-safe coding.<br/>
+✅ SQL Server & Database Management – Optimized queries, stored procedures & data modeling.<br/>
+✅ RESTful API & Microservices – Seamless integration & backend communication.<br/>
+
+Why Work With Me?<br/>
+
+✔️ Strong problem-solving skills & ability to transform complex business requirements into software.<br/>
+✔️ Full SDLC expertise – from requirement analysis to deployment & maintenance.<br/>
+✔️ Performance-optimized, scalable, and maintainable solutions.<br/>
+✔️ Excellent communication & on-time delivery.<br/>
+
+<p>I take pride in writing clean, maintainable, and efficient code, ensuring high-quality applications that drive business success. If you're looking for a reliable developer to build or enhance your web & mobile applications, let's discuss how I can help!</p>
+
+📩 Let’s connect and bring your project to life! 🚀
   
   ## GitHub Stats
 <p align="left">

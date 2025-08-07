@@ -28,15 +28,15 @@ Why Work With Me?<br/>
 
 📩 Let’s connect and bring your project to life! 🚀
 
-  ## Upwork Verified
+  ## Upwork Verified ✅
   <p align="left">
     <img src="https://github.com/aijazbinqasim/aijazbinqasim/blob/main/up-badge.png?raw=true" alt="Upwork Badge" width="300" />
   </p>
 
   ## GitHub Stats
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aijazbinqasim&layout=compact&theme=highcontrast" alt="Top Languages" />
-</p>
+ <p align="left">
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aijazbinqasim&layout=compact&theme=highcontrast" alt="Top Languages" />
+ </p>
 
 ## Blog Posts
 <!-- BLOG-POST-LIST:START -->

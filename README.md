@@ -1,9 +1,13 @@
-  ![Header](https://github.com/aijazbinqasim/aijazbinqasim/blob/main/final.png?raw=true)
-  
-  <p align="right">
-   <img src="https://img.shields.io/github/followers/aijazbinqasim?label=Follow&style=social" alt="GitHub Followers" />
-   <img src="https://img.shields.io/github/stars/aijazbinqasim?label=Stars" alt="GitHub Stars" />
-  </p>
+![Header](https://github.com/aijazbinqasim/aijazbinqasim/blob/main/final.png?raw=true)
+
+<p align="right">
+  <img src="https://github.com/aijazbinqasim/aijazbinqasim/blob/main/up-badge.png?raw=true" alt="Upwork Badge" width="300" />
+</p>
+
+<p align="right">
+  <img src="https://img.shields.io/github/followers/aijazbinqasim?label=Follow&style=social" alt="GitHub Followers" />
+  <img src="https://img.shields.io/github/stars/aijazbinqasim?label=Stars" alt="GitHub Stars" />
+</p>
 
 ## About
 

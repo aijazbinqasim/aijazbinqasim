@@ -28,6 +28,7 @@ Why Work With Me?<br/>
 
 📩 Let’s connect and bring your project to life! 🚀
 
+  ## Upwork
   <p align="left">
     <img src="https://github.com/aijazbinqasim/aijazbinqasim/blob/main/up-badge.png?raw=true" alt="Upwork Badge" width="300" />
   </p>

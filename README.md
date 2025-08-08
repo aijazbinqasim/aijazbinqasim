@@ -7,11 +7,11 @@
 
 ## About
 
-<p>I am a highly skilled Full Stack Developer over 07 years of experience in designing, developing, and deploying scalable web and mobile applications. My expertise spans across C#-.NET 9, API, MVC, React JS, React Native, TypeScript, JavaScript, SQL Server, Web & Mobile App (Android-IOS) Expert, ensuring end-to-end solutions that are efficient, maintainable, and performance-driven.</p>
+<p>I am a highly skilled Full Stack Developer over 07 years of experience in designing, developing, and deploying scalable web and mobile applications. My expertise spans across C#.NET 9.0, API, MVC, React JS, React Native, TypeScript, JavaScript, SQL Server, Web & Mobile App (Android-IOS) Expert, ensuring end-to-end solutions that are efficient, maintainable, and performance-driven.</p>
 
 My Expertise Includes:<br/>
 
-✅ .NET 9, C#, ASP.NET Core MVC & Web APIs – Robust and scalable backend development. <br/>
+✅ .NET 9.0, C#, ASP.NET (MVC & Web APIs – Robust and scalable backend development). <br/>
 ✅ React JS & React Native – Modern, high-performance front-end & mobile apps (Android & iOS).<br/>
 ✅ TypeScript & JavaScript – Clean, maintainable, and type-safe coding.<br/>
 ✅ SQL Server & Database Management – Optimized queries, stored procedures & data modeling.<br/>
